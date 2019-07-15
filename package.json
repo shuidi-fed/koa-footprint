@@ -1,0 +1,17 @@
+{
+  "name": "koa-footprint",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@which-route/matcher": "^0.1.7",
+    "@which-route/nuxt-router-reader": "^0.1.6",
+    "@which-route/vue-router-reader": "^0.1.6"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
